@@ -47,12 +47,11 @@
 
 ---
 
-### 🌐 Connect with Me
 
-<p>
+<!-- <p>
   <a href="www.linkedin.com/in/harshad02" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
   <a href="harshad00912@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
+</p> -->
 
 ---
 
