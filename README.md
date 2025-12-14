@@ -10,9 +10,9 @@
 ### 👨‍💻 About Me
 
 - 🧑‍💼 Currently working as **Lab Assistant** at *Shree Sarvajanik BCA & PGDAC College*
-- 🌱 Learning **MERN Stack**, **Next.js**, and **DSA (C/C++)**
+- 🌱 Learning **MERN Stack**, **Next.js**
 - 👨‍🏫 Contributing to **The Boring Education** Open Source Project
-- 🧠 Exploring **AI-powered tools**, building **YouTube productivity apps**, and **competitive exam platforms**
+- 🧠 Exploring **AI-powered tools**, building **YouTube productivity apps**
 - 🎯 Goal: Become a **skilled Full-Stack Developer** and contribute to impactful open source projects
 
 ---
@@ -50,8 +50,8 @@
 ### 🌐 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/harshadprajapti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/harshad02" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="harshad00912@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -59,9 +59,7 @@
 ### 🧩 Featured Projects
 
 - 🎥 **YouFocus** – Focus on YouTube learning with timer sync [Next.js + MongoDB]
-- 📚 **BCA Guide** – Semester-wise study materials and PDFs for BCA students
-- 🧪 **AI Competitive Exam Platform** – MCQ exams with AI-generated questions & difficulty levels
-- 🌍 **Online Privacy Project** – Educating users about safe browsing habits
+
 
 ---
 
